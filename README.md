@@ -7,7 +7,7 @@
   * email: admin@gmail.com  
   * password: Test12345
 
-You can get the api from [https://pokeapi.co/](Pokeapi)
+You can get the api from [https://pokeapi.co/](https://pokeapi.co/)
 
 ### `npm install`
 
